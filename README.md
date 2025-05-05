@@ -49,6 +49,3 @@ Proyek ini dilisensikan di bawah Lisensi MIT.
 
 ## Kontribusi:
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirimkan pull request dengan perubahan Anda. Pastikan untuk mengikuti pedoman pengkodean yang konsisten dan menguji perubahan sebelum mengirimkan pull request.
-
-## Kontak:
-Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi saya di [email@anda.com] atau buka isu di repositori ini.
