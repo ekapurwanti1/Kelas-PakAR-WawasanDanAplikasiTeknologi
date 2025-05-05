@@ -12,7 +12,7 @@ Repository ini berisi skrip Python untuk memprediksi kemungkinan seseorang mende
 1. **Clone repository ini:**
    Untuk mengunduh proyek ini ke komputer lokal Anda, buka terminal atau command prompt, lalu jalankan perintah berikut:
    ```bash
-   git clone https://github.com/username-anda/diabetes-prediction.git
+   git clone https://github.com/ekapurwanti1/Kelas-PakAR-WawasanDanAplikasiTeknologi
    ```
 
 2. **Instalasi dependensi:**
@@ -44,11 +44,5 @@ Repository ini berisi skrip Python untuk memprediksi kemungkinan seseorang mende
 ## Hasil Evaluasi Model:
 Skrip ini menggunakan regresi logistik untuk memprediksi apakah seseorang akan mengembangkan diabetes berdasarkan fitur-fitur seperti usia, tekanan darah, BMI, dll. Evaluasi model akan ditampilkan dalam format classification report yang mencakup precision, recall, f1-score, dan akurasi.
 
-## Lisensi:
-Proyek ini dilisensikan di bawah Lisensi MIT.
-
 ## Kontribusi:
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirimkan pull request dengan perubahan Anda. Pastikan untuk mengikuti pedoman pengkodean yang konsisten dan menguji perubahan sebelum mengirimkan pull request.
-
-## Kontak:
-Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi saya di [email@anda.com] atau buka isu di repositori ini.
