@@ -12,23 +12,19 @@ Repository ini berisi skrip Python untuk memprediksi kemungkinan seseorang mende
 1. **Clone repository ini:**
    Untuk mengunduh proyek ini ke komputer lokal Anda, buka terminal atau command prompt, lalu jalankan perintah berikut:
    ```bash
-   git clone https://github.com/username-anda/diabetes-prediction.git
+   git clone https://github.com/ekapurwanti1/Kelas-PakAR-WawasanDanAplikasiTeknologi
    ```
 
 2. **Instalasi dependensi:**
-   Setelah repository di-clone, Anda perlu menginstal semua paket yang diperlukan. Buat lingkungan virtual untuk proyek ini, kemudian jalankan:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Anda juga bisa menginstal paket secara manual menggunakan pip:
+   Setelah repository di-clone anda juga bisa menginstal paket secara manual menggunakan pip:
    ```bash
    pip install pandas scikit-learn
    ```
 
-3. **Menyiapkan dataset:**
+4. **Menyiapkan dataset:**
    Dataset yang digunakan dalam proyek ini berada di folder `dataset/diabetes.csv`. Pastikan Anda memiliki file dataset yang sesuai di folder yang tepat, atau Anda dapat menggantinya dengan dataset Anda sendiri yang sesuai formatnya.
 
-4. **Menjalankan skrip:**
+5. **Menjalankan skrip:**
    Jalankan skrip `diabetes_prediction.py` untuk melatih dan mengevaluasi model prediksi diabetes. Skrip ini akan memuat data, melatih model menggunakan regresi logistik, dan kemudian menampilkan laporan evaluasi model.
    ```bash
    python diabetes_prediction.py
